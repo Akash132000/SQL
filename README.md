@@ -1,2 +1,2 @@
-# SQL
-SQL for Data analytics
+# Python
+Pythonfor Data analytics
